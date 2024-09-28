@@ -21,9 +21,20 @@
 </h1>
 
 <ul>
+  <p align="left"> <a href="https://github.com/GurbanmyradowSerdar"><img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,&perline=7"> </a> </p>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
   <li>React</li>
   <li>Figma</li>
+</ul>
+
+<h1>
+  Let's chat!
+</h1>
+
+<ul>
+  <li>Telegram: @nurtulbek</li>
+  <li>Instagram: @nurtulbek</li>
+  <li>Gmail: owezresul0@gmail.com</li>
 </ul>
